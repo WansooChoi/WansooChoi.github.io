@@ -41,8 +41,9 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7725522"
+  # researchgate       : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7725522"
   # scopus           : # URL
+  ssrn               : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7725522"
   
 
   # Repositories and software development
