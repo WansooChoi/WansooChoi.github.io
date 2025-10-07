@@ -10,6 +10,7 @@ redirect_from:
 ---
 
 
+
 Hello!
 
 I am a PhD Candidate in Finance at the University at Buffalo.
