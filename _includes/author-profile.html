@@ -68,7 +68,15 @@
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}
-
+      {% if site.ssrn %}
+      <li>
+      <a href="{{ site.ssrn }}" title="SSRN">
+      <i class="ai ai-ssrn"></i>
+      </a>
+      </li>
+      {% endif %}
+    
+      
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
