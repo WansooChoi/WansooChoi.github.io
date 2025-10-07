@@ -17,8 +17,9 @@ author_profile: true
 <p style="margin:0 0 0.5rem 0; font-size:0.95em; line-height:1.25;">
   <em>with Juha Joenväärä, Dominik Rösch, and Cristian Tiu</em>
 </p>
-<p style="margin:0;">
-  Presented at: University at Buffalo (Apr 2025); Hanyang University (May 2025, co-author); CFEA (Nov 2025, scheduled)
+<p style="margin:0; font-size:0.9em; color:#555;">
+  <span style="font-variant: small-caps; font-weight:600;">Presented at:</span>
+  University at Buffalo (Apr 2025); Hanyang University (May 2025, co-author); CFEA (Nov 2025, scheduled)
 </p>
 
 ---
