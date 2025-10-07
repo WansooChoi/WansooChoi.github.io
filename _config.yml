@@ -27,7 +27,7 @@ author:
   name             : "WanSoo Choi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Finance"
-  location         : "Buffalo, NY"
+  # location         : "Buffalo, NY"
   employer         : "University at Buffalo"
   uri              : # URL
   email            : "wschoi1123@gmail.com" 
