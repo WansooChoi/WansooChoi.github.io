@@ -9,6 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD Candidate in Finance at the University at Buffalo.
 
-My research interests include market microstructure, information asymmetry, and hedge funds.
+Hello!
+
+I am a PhD Candidate in Finance at the University at Buffalo.
+
+My research focuses on market microstructure, including informed trading, execution quality, and retail trade classification. I am also broadly interested in sophisticated investors such as hedge funds. I look forward to exploring option spreads.
