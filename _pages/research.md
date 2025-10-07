@@ -12,6 +12,12 @@ author_profile: true
 **Presented at:** University at Buffalo (Apr 2025); Hanyang University (May 2025, co-author); CFEA (Nov 2025, scheduled)  
 
 ---
+
+### Market Quality of Informed Trades [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5317851)]
+<p style="margin: 0.2rem 0 0.6rem 0;"><em>with Juha Joenväärä, Dominik Rösch, and Cristian Tiu</em></p>
+<p><strong>Presented at:</strong> University at Buffalo (Apr 2025); Hanyang University (May 2025, co-author); CFEA (Nov 2025, scheduled)</p>
+
+---
  
 ### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot [[PDF](/files/Assessing_the_Reliability_of_Retail_Trade_Classification.pdf)]  
 *solo-authored*  
