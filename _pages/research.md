@@ -26,6 +26,7 @@ author_profile: true
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
     Conference on Financial Economics and Accounting (Scheduled&nbsp;2025); 
+    Hanyang University (May&nbsp;2025, co-author); 
     University at Buffalo Celebration of Student Excellence (2025); 
     University at Buffalo School of Management Brown Bag (2025); 
     University at Buffalo School of Management PhD Showcase (2025, 2024); 
