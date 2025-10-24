@@ -25,7 +25,7 @@ author_profile: true
 
 ---
  
-### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot [[PDF](/files/Assessing_the_Reliability_of_Retail_Trade_Classification.pdf)]
+### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5573458)]
 <p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
   <em>solo-authored</em>
 </p>
