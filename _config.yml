@@ -153,9 +153,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"   # or "google" if using older Universal Analytics
   google:
-    tracking_id          :
+    tracking_id          : "G-RKPFEJKRRW"         # <-- your real GA4 ID here
 
 
 # Reading Files
