@@ -14,7 +14,10 @@ author_profile: true
 <p style="margin:0; font-size:0.9em; color:#555;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
-    Conference on Financial Economics and Accounting (Scheduled&nbsp;2025); 
+    Eastern Finance Association (Scheduled&nbsp;2026);
+    Annual Hedge Fund Research Conference (Poster, Scheduled&nbsp;2026);
+    The University of Melbourne (November&nbsp;2025, co-author);
+    Conference on Financial Economics and Accounting (November&nbsp;2025); 
     Hanyang University (May&nbsp;2025, co-author); 
     University at Buffalo Celebration of Student Excellence (2025); 
     University at Buffalo School of Management Brown Bag (2025); 
@@ -31,7 +34,9 @@ author_profile: true
 </p>
 <p style="margin:0; font-size:0.9em; color:#555;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
-  <em>University at Buffalo (Sep 2025)</em>
+  <em>
+    Eastern Finance Association (Scheduled&nbsp;2025);
+    University at Buffalo (Sep 2025)</em>
 </p>
 
 ---
