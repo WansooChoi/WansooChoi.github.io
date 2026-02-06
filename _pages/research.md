@@ -14,8 +14,9 @@ author_profile: true
 <p style="margin:0; font-size:0.9em; color:#555;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
+    Southwestern Finance Association (Scheduled&nbsp;2026);
     Eastern Finance Association (Scheduled&nbsp;2026);
-    Annual Hedge Fund Research Conference (Poster, Scheduled&nbsp;2026);
+    Annual Hedge Fund Research Conference (Poster, January&nbsp;2026);
     The University of Melbourne (November&nbsp;2025, co-author);
     Conference on Financial Economics and Accounting (November&nbsp;2025); 
     Hanyang University (May&nbsp;2025, co-author); 
@@ -35,7 +36,8 @@ author_profile: true
 <p style="margin:0; font-size:0.9em; color:#555;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
-    Eastern Finance Association (Scheduled&nbsp;2025);
+    Southwestern Finance Association (Scheduled&nbsp;2026);
+    Eastern Finance Association (Scheduled&nbsp;2026);
     University at Buffalo (Sep 2025)</em>
 </p>
 
