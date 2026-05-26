@@ -14,7 +14,7 @@ author_profile: true
 <p style="margin:0; font-size:0.9em; color:#555;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
-    Asian Finance Association (July&nbsp;2026&nbsp;scheduled);    
+    Asian Finance Association (July&nbsp;2026, scheduled);    
     Eastern Finance Association (March&nbsp;2026);
     Southwestern Finance Association (March&nbsp;2026);    
     Annual Hedge Fund Research Conference (Poster, January&nbsp;2026);
