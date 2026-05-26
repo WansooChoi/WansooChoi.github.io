@@ -17,4 +17,4 @@ I am a PhD Candidate in Finance at the University at Buffalo.
 
 My research focuses on market microstructure, including informed trading, execution quality, and retail trade classification. I am also broadly interested in sophisticated investors such as hedge funds. I look forward to exploring option spreads.
 
-I will be on the job market in Fall 2026 and Spring 2025.
+I will be on the job market in Fall 2026 and Spring 2027.
