@@ -4,6 +4,11 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
+<style>
+  h2 {
+    border-bottom: 1px solid #999;
+  }
+</style>
 
 ## Working Papers
 
