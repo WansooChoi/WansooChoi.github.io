@@ -47,3 +47,9 @@
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  .author__avatar img {
+    border-color: #888;
+  }
+}
+
