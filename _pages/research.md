@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 ---
 <style>
-  h2 {
-    border-bottom: 1px solid;
-    border-bottom-color: color-mix(in srgb, currentColor 40%, transparent);
+  .page__content h2 {
+    border-bottom: 1px solid color-mix(in srgb, currentColor 55%, transparent) !important;
   }
 </style>
 
