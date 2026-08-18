@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="margin:-0.8rem 0 0 0;"></div>
 
-### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size <span style="white-space:nowrap;">Pilot&nbsp;&nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5573458" style="font-size:0.7em; border:1px solid #2980b9; color:#2980b9; padding:1px 8px; border-radius:3px; text-decoration:none; vertical-align:middle;">SSRN</a></span>
+### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5573458" style="font-size:0.7em; border:1px solid #2980b9; color:#2980b9; padding:1px 6px; border-radius:3px; text-decoration:none; vertical-align:middle;">SSRN</a>
 
 <p style="margin:0.15rem 0 0.4rem 0;">
   <span style="border:1px solid #2c3e50; color:#2c3e50; font-size:0.75em; padding:1px 8px; border-radius:3px; letter-spacing:0.5px;">JOB MARKET PAPER</span>
