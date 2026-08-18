@@ -7,6 +7,22 @@ author_profile: true
 
 ## Working Papers
 
+### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5573458)]
+<p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
+  <em>Job Market Paper</em>
+</p>
+<p class="presented-at">
+  <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
+  <em>
+    Southern Finance Association (November&nbsp;2026, scheduled);
+    Eastern Finance Association (March&nbsp;2026);
+    Southwestern Finance Association (March&nbsp;2026);    
+    University at Buffalo (Sep 2025)</em>
+</p>
+
+---
+
+
 ### Market Quality of Informed Trades [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5317851)]
 <p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
   <em>with Juha Joenväärä, Dominik Rösch, and Cristian Tiu</em>
@@ -33,22 +49,25 @@ author_profile: true
 
 ---
  
-### Assessing the Reliability of Retail Trade Classification: Evidence from the Tick Size Pilot [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5573458)]
-<p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
-  <em>solo-authored</em>
-</p>
-<p class="presented-at">
-  <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
-  <em>
-    Southern Finance Association (November&nbsp;2026, scheduled);
-    Eastern Finance Association (March&nbsp;2026);
-    Southwestern Finance Association (March&nbsp;2026);    
-    University at Buffalo (Sep 2025)</em>
-</p>
 
----
 
 ### How to: Dynamic Reports and Reproducible Research [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5341980)]
 <p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
   <em>with Toghrul Aghbabali, Taihun Im, Dominik Rösch, and Prince Roy</em>
 </p>
+
+
+
+---
+
+## Work in Progress
+
+### What Do Options Know About Firm-Specific News?
+<p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
+  <em>with Dominik Rösch and Avanidhar Subrahmanyam</em>
+</p>
+
+
+
+
+
