@@ -6,7 +6,8 @@ author_profile: true
 ---
 <style>
   h2 {
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid;
+    border-bottom-color: color-mix(in srgb, currentColor 40%, transparent);
   }
 </style>
 
