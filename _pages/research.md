@@ -11,7 +11,7 @@ author_profile: true
 <p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
   <em>with Juha Joenväärä, Dominik Rösch, and Cristian Tiu</em>
 </p>
-<p style="margin:0; font-size:0.9em; color:#555;">
+<p class="presented-at">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
     Southern Finance Association (November&nbsp;2026, scheduled);    
@@ -37,7 +37,7 @@ author_profile: true
 <p style="margin:0.1rem 0 0.35rem 0; font-size:0.92em; line-height:1.25;">
   <em>solo-authored</em>
 </p>
-<p style="margin:0; font-size:0.9em; color:#555;">
+<p class="presented-at">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span><br>
   <em>
     Southern Finance Association (November&nbsp;2026, scheduled);
