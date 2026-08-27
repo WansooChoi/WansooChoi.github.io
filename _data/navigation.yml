@@ -7,10 +7,15 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+
+
 main:
-  - title: "Research"
-    url: "/research/"
-  - title: "CV"
-    url: "/files/Wansoo_Choi_CV.pdf"   # or use "/cv/" if you prefer the CV page
-  # - title: "Resources"
-  #   url: "/resources/"
+
+- title: "Research"
+  url: "/research/"
+
+- title: "Teaching"
+  url: "/teaching/"
+
+- title: "CV"
+  url: "/files/Wansoo_Choi_CV.pdf"
