@@ -41,6 +41,7 @@ author_profile: true
 <p class="presented-at" style="margin:0 0 0.5rem 0; font-size:0.92em; line-height:1.4;">
   <span style="font-variant: small-caps; font-weight:600;">Presented at:</span>
   <em>
+    The University of Chicago, Department of Economics (November&nbsp;2026, scheduled);
     Southern Finance Association (November&nbsp;2026, scheduled);
     Financial Management Association (October&nbsp;2026, scheduled);
     Northern Finance Association (September&nbsp;2026, scheduled);
