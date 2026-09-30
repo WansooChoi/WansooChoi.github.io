@@ -44,7 +44,7 @@ author_profile: true
     University of Chicago, Department of Economics (November&nbsp;2026, scheduled);
     Southern Finance Association (November&nbsp;2026, scheduled);
     Financial Management Association (October&nbsp;2026, scheduled);
-    Northern Finance Association (September&nbsp;2026, scheduled);
+    Northern Finance Association (September&nbsp;2026);
     Asian Finance Association (July&nbsp;2026);
     Eastern Finance Association (March&nbsp;2026);
     Southwestern Finance Association (March&nbsp;2026);
